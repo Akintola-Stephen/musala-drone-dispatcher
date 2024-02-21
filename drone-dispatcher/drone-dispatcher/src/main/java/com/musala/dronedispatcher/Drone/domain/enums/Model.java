@@ -1,2 +1,8 @@
-package com.musala.dronedispatcher.Drone.domain.enums;public enum Model {
+package com.musala.dronedispatcher.Drone.domain.enums;
+
+public enum Model {
+  LIGHTWEIGHT,
+  MIDDLEWEIGHT,
+  CRUISERWEIGHT,
+  HEAVYWEIGHT
 }
